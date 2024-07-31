@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agareaditya-8055&label=Profile%20views&color=0e75b6&style=flat" alt="cwadyalkar" /> </p>
-<p align="left"> <a href="https://twitter.com/@agare_aditya" target="blank"><img src="https://img.shields.io/twitter/follow/@chiragwadyalkar?logo=twitter&style=for-the-badge" alt="@aditya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@agare_aditya" target="blank"><img src="https://img.shields.io/twitter/follow/@agare_aditya?logo=twitter&style=for-the-badge" alt="@aditya" /></a> </p>
 - :seedling: I’m currently learning **React,Express.js,MongoDB,NodeJS**
 - :speech_balloon: Ask me about **MERN Stack**
 - :mailbox: How to reach me **adityaagare8055@gmail.com**
