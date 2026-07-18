@@ -1,84 +1,86 @@
-<h1 align="center">Hi :wave:, I'm Aditya Agare</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=agareaditya-8055&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+# Hi, I'm Aditya Agare 👋
 
-<p align="left">
-  <a href="https://twitter.com/@agare_aditya" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/@agare_aditya?logo=twitter&style=for-the-badge" alt="Follow on Twitter" />
-  </a>
-</p>
+### Founding Engineer @ Bootcoding | Building AI-powered SaaS Products
 
-- :seedling: I’m currently learning **React, Express.js, MongoDB, NodeJS**
-- :speech_balloon: Ask me about **MERN Stack**
-- :mailbox: How to reach me: **adityaagare8055@gmail.com**
+I build and scale full-stack products end-to-end — from React frontends to AWS infrastructure — currently shipping two recruitment-tech platforms as a founding engineer.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/@agare_aditya" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/aditya-agare-b04773195" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/agareaditya_8055" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-agare-b04773195)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@agare_aditya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaagare8055@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agareaditya-8055&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=agareaditya-8055&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+### 🚀 About Me
+
+- 🏗️ **Founding Engineer** at **Bootcoding Pvt. Ltd.**, building two AI-powered SaaS recruitment products — **Workspace** and **AceInt** — from the ground up
+- 🛠️ Own the full lifecycle: application code, CI/CD pipelines, DNS/SSL, Cloudflare Zero Trust, and AWS infrastructure
+- 📦 Maintain **[AxiomUI](#)** — an open-source React + Tailwind component library, published on npm
+- 🔭 Deep interest in **distributed systems, networking internals, and low-level programming** — including a from-scratch C++ packet inspection tool
+- 🌱 Currently sharpening system design (HLD/LLD) and going deep on backend scalability patterns
+- 📍 Based in Nagpur, India — open to remote opportunities
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Data & Infra**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+---
+
+### 📌 Featured Work
+
+| Project | Description |
+|---|---|
+| **AceInt** | AI-powered technical interview platform — dynamic candidate sessions provisioned on isolated cloud containers, connected in real time via LiveKit |
+| **Workspace** | AI-driven recruitment SaaS product, built and scaled from zero to production |
+| **AxiomUI** | Open-source React + Tailwind component library published on npm |
+| **C++ Packet Sniffer** | A deep packet inspection tool parsing Ethernet/IP/TCP/UDP/HTTP/DNS headers from raw sockets |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=agareaditya-8055&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agareaditya-8055&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agareaditya-8055&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+💬 **Let's talk backend architecture, distributed systems, or your next hire.**
+
+<img src="https://komarev.com/ghpvc/?username=agareaditya-8055&label=Profile%20Views&color=6366f1&style=flat" alt="Profile views" />
+
+</div>
